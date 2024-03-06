@@ -5,16 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>onihilist's Webbase</title>
     <!-- CSS stylesheets -->
-    <link rel="stylesheet" type="txt/css" href="vendor/twbs/bootstrap/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" type="txt/css" href="vendor/twbs/bootstrap-icons/font/bootstrap-icons.css">
-    <link rel="stylesheet" type="txt/css" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" integrity="sha384-4LISF5TTJX/fLmGSxO53rV4miRxdg84mZsxmO8Rx5jGtp/LbrixFETvWa5a6sESd" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <div class="container">
-        <h1><i class="bi bi-git"></i>Sup y'all this is my webbase !</h1>
-        <p>
-            Et voilà une petite balise &lt;p&gt; !
-        </p>
+    <div>
+        <div class="container">
+            <img src="images/charte/banniere_pied.png" alt="">
+            <h1><i class="bi bi-git"></i>Sup y'all this is my gigastore !</h1>
+            <p>
+                Et voilà une petite balise &lt;p&gt; !
+            </p>
+        </div>
     </div>
 </body>
 </html>
